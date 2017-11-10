@@ -1,0 +1,4 @@
+﻿  Crypt.cpp
+c:\users\alex\desktop\coding\crypt\crypt\crypt.cpp(18): warning C4101: 'ed': unreferenced local variable
+  Crypt.vcxproj -> C:\Users\Alex\Desktop\Coding\Crypt\Debug\Crypt.exe
+  Crypt.vcxproj -> C:\Users\Alex\Desktop\Coding\Crypt\Debug\Crypt.pdb (Partial PDB)
